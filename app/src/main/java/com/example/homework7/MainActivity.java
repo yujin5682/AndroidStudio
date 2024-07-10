@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     EditText inputPhone;
     ImageView imageView;
 
+    Animal animal;
     Animal dog;
     Animal cat;
 
